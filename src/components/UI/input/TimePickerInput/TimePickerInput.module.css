@@ -1,0 +1,8 @@
+.timePickerInput {
+    color: white;
+    border: white 1px solid;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+    display: none;
+}
